@@ -1,0 +1,9 @@
+/*
+Theme Name: WP Tailwind Starter
+Theme URI: http://example.com
+Author: Your Name
+Author URI: http://example.com
+Description: A starter WordPress theme with Tailwind CSS.
+Version: 1.0
+*/
+@import 'tailwind-output.css';
